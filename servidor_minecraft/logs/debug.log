@@ -752,3 +752,12 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [15Mar2025 18:44:14.353] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: santiprox24[/100.86.251.72:50187] logged in with entity id 363 at (-86.5, 75.0, -610.5)
 [15Mar2025 18:44:14.363] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@b7500cd into net.minecraft.network.Connection@652ce51c
 [15Mar2025 18:44:14.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santiprox24 joined the game
+[15Mar2025 18:45:12.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Mar2025 18:45:12.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Mar2025 18:46:44.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made santiprox24 a server operator
+[15Mar2025 18:46:52.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [santiprox24: Set own game mode to Creative Mode]
+[15Mar2025 18:46:57.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santiprox24 has made the advancement [Who is Cutting Onions?]
+[15Mar2025 18:48:06.082] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: santiprox24 lost connection: Disconnected
+[15Mar2025 18:48:06.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santiprox24 left the game
+[15Mar2025 18:50:11.982] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Mar2025 18:50:11.987] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
