@@ -98,3 +98,6 @@
 [15Mar2025 19:45:03.595] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [15Mar2025 19:53:23.325] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: santiprox24[/100.86.251.72:50118] logged in with entity id 312 at (0.5, 74.0, -9.5)
 [15Mar2025 19:53:23.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santiprox24 joined the game
+[15Mar2025 19:54:46.503] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: santiprox24 lost connection: Disconnected
+[15Mar2025 19:54:46.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: santiprox24 left the game
+[15Mar2025 19:54:55.353] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3ada215a[id=<null>,name=santiprox24,properties={},legacy=false] (/100.86.251.72:50122) lost connection: Disconnected
